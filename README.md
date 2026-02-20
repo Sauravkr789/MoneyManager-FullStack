@@ -1,15 +1,22 @@
 # MoneyManager-FullStack
+## About the Project
+**Money Manager** is a full-stack web application designed to help users track transactions, manage budgets, and gain insights into their financial health. This project was developed to demonstrate a production-ready architecture using modern enterprise technologies like Spring Boot and React.js.
 
-A full-stack web application built using React and Spring Boot.
-
+## Key Features
+- **Full CRUD Functionality:** Seamlessly add, view, update, and delete financial transactions.
+- **RESTful API Architecture:** Robust backend built with Spring Boot and Hibernate (JPA) for efficient data persistence.
+- **Responsive Frontend:** A modern, interactive user interface developed with React.js and ES6+ JavaScript.
+- **Secure Data Management:** Utilizes PostgreSQL for reliable storage of complex financial records.
+- **Containerized Deployment:** Fully Dockerized for consistent environments across development and production.
+  
 ## Repositories
 - 🔗 Frontend (React): https://github.com/Sauravkr789/moneymanager-react-frontend
 - 🔗 Backend (Spring Boot): https://github.com/Sauravkr789/MoneyManager-SpringBoot-Backend
 
 ## Tech Stack
-- Frontend: Html, Css, JavaScript, React, Axios, Tailwind
-- Backend: Java, Spring Boot, PostgreSQL, JWT
-- Deployment: Render / Docker
+- **Frontend:** Html, Css, JavaScript, React, Axios, Tailwind
+- **Backend:** Java, Spring Boot, PostgreSQL, JWT
+- **Deployment:** Docker, Netlify/Render
 
 ## Overview
 <img width="952" height="412" alt="image" src="https://github.com/user-attachments/assets/e38b22b0-9868-40d7-87d4-129c370ea087" />
